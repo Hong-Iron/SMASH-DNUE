@@ -1,0 +1,87 @@
+{
+  "code": "DNUE",
+  "title": "SMASH DNUE",
+  "school": "대구교대",
+  "fullName": "대구교육대학교",
+  "campusName": "대구교육대학교",
+  "tagline": "대구교대를 부셔 (시험기간 스트레스 해소)",
+  "description": "대구교육대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 대구교육대학교 3D 화면과 SMASH DNUE 제목",
+  "url": "https://hong-iron.github.io/SMASH-DNUE/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 1131452765
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "대구교육대학교 도서관": {
+      "style": "stone",
+      "wall": "#d8d8d4",
+      "glass": "#4a8098",
+      "frame": "#9ea4a8"
+    },
+    "예술관": {
+      "style": "ribbon",
+      "wall": "#d3d7dc",
+      "glass": "#3f6a8c",
+      "frame": "#a8b0b8"
+    },
+    "상록교육관": {
+      "style": "brick",
+      "wall": "#8a4e3c",
+      "glass": "#3a5a64",
+      "frame": "#d4d4d0"
+    },
+    "인문사회관": {
+      "style": "brick",
+      "wall": "#9c5a44",
+      "glass": "#3e4a52",
+      "frame": "#e8e6e0"
+    },
+    "상록동재": {
+      "style": "brick",
+      "wall": "#8a4436",
+      "glass": "#3a4044",
+      "frame": "#d8d4cc"
+    },
+    "대구교대 체육관": {
+      "style": "concrete",
+      "wall": "#d6d1bd",
+      "glass": "#4a6a60",
+      "frame": "#6a9a5a"
+    },
+    "특수통합교육관": {
+      "style": "brick",
+      "wall": "#b06a48",
+      "glass": "#2a3e5c",
+      "frame": "#6a5a50"
+    },
+    "상록아트홀": {
+      "style": "glass",
+      "wall": "#8a8886",
+      "glass": "#4f5652",
+      "frame": "#9a9c9e"
+    },
+    "대학본부": {
+      "style": "stone",
+      "wall": "#d2ccc0",
+      "glass": "#3d8a9a",
+      "frame": "#b8b4ac"
+    },
+    "상록라운지": {
+      "style": "stone",
+      "wall": "#e0dbcf",
+      "glass": "#2f5e9a",
+      "frame": "#3a66b0"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
